@@ -1,0 +1,17 @@
+nodemodules
+
+
+
+# Ignora credenciones, contraseñas, archivos de configuración y otros archivos que no deben compartirse públicamente.
+
+# Ejemplos de archivos que se pueden ignorar:
+# - Archivos de configuración de bases de datos (por ejemplo, config/database.yml)
+# - Archivos de configuración de servicios externos (por ejemplo, config/secrets.yml)   
+# - Archivos de credenciales (por ejemplo, .env, .env.local)
+# - Archivos de registro (por ejemplo, log/*.log)
+# - Archivos de caché (por ejemplo, tmp/cache/*)
+# - Archivos de compilación (por ejemplo, build/*, dist/*)
+# - Archivos de dependencias (por ejemplo, node_modules/, vendor/bundle/)
+# - Archivos de configuración del sistema operativo (por ejemplo, .DS_Store, Thumbs.db)
+# # Puedes agregar más patrones de archivos o directorios que desees ignorar según tus necesidades.
+
