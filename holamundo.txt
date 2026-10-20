@@ -1,7 +1,9 @@
 Hola Mundo!!
-Aqui esta nueva modificion
+Aqui esta  modificion
 
 
 Hola... este es una nueva modificacion
 Primera Clase de GIT
 
+Hoy es la segunda clase de GIT
+git diff 
